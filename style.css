@@ -1,0 +1,20 @@
+img{
+    width: 50%;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgba(210, 105, 30, 0.77);
+}
+.style{
+    border: 2px solid red;
+    width: 17%;
+    height: 150px;
+    border-radius: 10px;
+    margin: 1%;
+    background-color: chocolate;
+    color: aliceblue;
+    display: inline-block;
+    padding: 2% 5% ;
+  
+
+}
